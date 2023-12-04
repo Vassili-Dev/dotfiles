@@ -444,7 +444,7 @@ env:
 #  args:
 #    - --login
 shell:
- program: /opt/homebrew/bin/tmux 
+ program: tmux 
  args:
   - new-session
   - -A
