@@ -1,7 +1,7 @@
 # Configuration for Alacritty, the GPU enhanced terminal emulator.
 
 import:
- - ~/.config/alacritty/remote/alacritty-theme/themes/catppuccin.yaml
+ - ~/.config/alacritty/remote/alacritty-theme/catppuccin/catppuccin-mocha.yml
 
 # Import additional configuration files
 #
