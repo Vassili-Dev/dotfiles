@@ -1,7 +1,7 @@
 # Requisites
 
 - Git
-- (Nix)[https://nixos.org/manual/nix/stable/installation/installation]
+- [Nix](https://nixos.org/manual/nix/stable/installation/installation)
 
 # Instructions
 
