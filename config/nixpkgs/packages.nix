@@ -6,4 +6,6 @@
   pkgs.exa
   pkgs.ripgrep
   pkgs.neovim
+  pkgs.starship
+  pkgs.pyenv
 ]
