@@ -33,8 +33,10 @@ _ln_cfg "nvim"
 _ln_cfg "starship.toml"
 _ln_cfg "tmux"
 _ln_cfg "nix"
+_ln_cfg "nixpkgs"
 _ln_home "tmux" ".tmux"
 
+nix-env -if $HOME/.config/nixpkgs/packages.nix
 
 #
 # _fish() {
