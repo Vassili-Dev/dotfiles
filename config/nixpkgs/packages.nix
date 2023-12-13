@@ -8,4 +8,5 @@
   pkgs.neovim
   pkgs.starship
   pkgs.pyenv
+  pkgs.gcc
 ]
