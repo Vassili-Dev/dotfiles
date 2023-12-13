@@ -7,6 +7,6 @@
   pkgs.ripgrep
   pkgs.neovim
   pkgs.starship
-  pkgs.pyenv
   pkgs.gcc
+  (pkgs.nerdfonts.override { fonts = [ "Hack" ]; })
 ]
