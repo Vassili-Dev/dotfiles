@@ -1,0 +1,19 @@
+import = ["/home/nick/.config/alacritty/remote/alacritty-theme/catppuccin/catppuccin-mocha.toml"]
+
+[env]
+TERM = "alacritty"
+
+
+[font.normal]
+family = "Hack Nerd Font"
+
+[shell]
+args = ["new-session", "-A", "-D", "-s", "main"]
+program = "tmux"
+
+[window]
+opacity = 1
+
+[window.padding]
+x = 8
+y = 8
